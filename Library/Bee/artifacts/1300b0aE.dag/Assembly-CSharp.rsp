@@ -816,6 +816,7 @@
 "Assets/OpenCV+Unity/Demo/Scripts/FaceProcessor.cs"
 "Assets/OpenCV+Unity/Demo/Scripts/WebCamera.cs"
 "Assets/OpenCV+Unity/Demo/Tracking/TrackingScript.cs"
+"Assets/SaveWav.cs"
 "Assets/Script/FaceDector.cs"
 -langversion:9.0
 /unsafe+
